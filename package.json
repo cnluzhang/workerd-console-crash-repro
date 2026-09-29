@@ -1,0 +1,12 @@
+{
+  "name": "workerd-console-crash-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node test.mjs"
+  },
+  "devDependencies": {
+    "workerd-20260928": "npm:workerd@1.20260928.1",
+    "workerd-20260929": "npm:workerd@1.20260929.1"
+  }
+}
